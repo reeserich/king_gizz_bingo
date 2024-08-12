@@ -2,11 +2,16 @@
 
 [King Gizzard and Lizard Wizard](https://kinggizzardandthelizardwizard.com/) is known for having a large catalog of songs and for changing up the setlists of their live shows constantly. Try playing BINGO/GIZZO at one of their shows!
 
-A hundred pre-made bingo cards are available as PDFs in the folder `output/`. `popularity` cards choose songs based on popularity, `year` cards choose songs based on year of release, with more recent songs favors, `hybrid` cards choose songs based on a mix of popularity and release year, and `none` cards choose songs purely at random.
+A hundred pre-made bingo cards are available as PDFs in the folder `output/`. 
+* `popularity` cards choose songs based on popularity.
+* `year` cards choose songs based on year of release, with more recent songs favored.
+* `hybrid` cards choose songs based on a mix of popularity and release year.
+* `none` cards choose songs purely at random.
 
 The extended mixes on *The Silver Cord* were considered duplicate songs and not included.
 
 Last updated: August 12, 2024
+
 Last album included: *Flight b741*
 
 ## Example:
