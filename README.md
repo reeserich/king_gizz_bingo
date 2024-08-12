@@ -42,18 +42,18 @@ Run `src/generate_bingo.py` with the following arguments:
 
 ### Card with weighting by year, album covers included, 'BINGO' at top of card and file prefix 'nonagon'
 
-`python ../src/generate_bingo.py -f nonagon -t BINGO -w year`
+`python generate_bingo.py -f nonagon -t BINGO -w year`
 
 ### Card with hybrid weighting, album covers included, 'GIZZO' at top of card and file prefix 'gizzo'
 
-`python ../src/generate_bingo.py -f gizzo -t GIZZO -w hybrid`
+`python generate_bingo.py -f gizzo -t GIZZO -w hybrid`
 
 ### Card with weighting by popularity, album covers not included, 'GIZZO' at top of card and file prefix 'gizzo'
 
-`python ../src/generate_bingo.py -f gizzo -t GIZZO -w popularity --no_album_covers`
+`python generate_bingo.py -f gizzo -t GIZZO -w popularity --no_album_covers`
 
 ### Card with weighting by popularity, album covers included, 'GIZZO' at top of card and file prefix 'gizzo', generated with seed=741
 
-`python ../src/generate_bingo.py -f gizzo -t GIZZO -w none -s 741`
+`python generate_bingo.py -f gizzo -t GIZZO -w none -s 741`
 
 
