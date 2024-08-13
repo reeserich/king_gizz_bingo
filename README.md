@@ -52,7 +52,7 @@ Run `src/generate_bingo.py` with the following arguments:
 
 `python generate_bingo.py -f gizzo -t GIZZO -w popularity --no_album_covers`
 
-### Card with weighting by popularity, album covers included, 'GIZZO' at top of card and file prefix 'gizzo', generated with seed=741
+### Card with no weighting, album covers included, 'GIZZO' at top of card and file prefix 'gizzo', generated with seed=741
 
 `python generate_bingo.py -f gizzo -t GIZZO -w none -s 741`
 
